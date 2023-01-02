@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\bin\Debug\net6.0\LINQTechnology2.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\bin\Debug\net6.0\LINQTechnology2.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\bin\Debug\net6.0\LINQTechnology2.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\bin\Debug\net6.0\LINQTechnology2.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\bin\Debug\net6.0\LINQTechnology2.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\bin\Debug\net6.0\FakeData.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.csproj.CopyComplete
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\refint\LINQTechnology2.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\LINQTechnology2.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology2\obj\Debug\net6.0\ref\LINQTechnology2.dll

@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\bin\Debug\net6.0\CustomDLL.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\bin\Debug\net6.0\CustomDLL.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\bin\Debug\net6.0\CustomDLL.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\refint\CustomDLL.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\CustomDLL.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\CustomDLL\obj\Debug\net6.0\ref\CustomDLL.dll

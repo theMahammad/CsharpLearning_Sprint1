@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\bin\Debug\net6.0\PartialClass.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\bin\Debug\net6.0\PartialClass.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\bin\Debug\net6.0\PartialClass.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\bin\Debug\net6.0\PartialClass.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\bin\Debug\net6.0\PartialClass.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\refint\PartialClass.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\PartialClass.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\PartialClass\obj\Debug\net6.0\ref\PartialClass.dll

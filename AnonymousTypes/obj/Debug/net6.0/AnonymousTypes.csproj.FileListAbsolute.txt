@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\bin\Debug\net6.0\AnonymousTypes.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\bin\Debug\net6.0\AnonymousTypes.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\bin\Debug\net6.0\AnonymousTypes.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\bin\Debug\net6.0\AnonymousTypes.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\bin\Debug\net6.0\AnonymousTypes.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\refint\AnonymousTypes.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\AnonymousTypes.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\AnonymousTypes\obj\Debug\net6.0\ref\AnonymousTypes.dll

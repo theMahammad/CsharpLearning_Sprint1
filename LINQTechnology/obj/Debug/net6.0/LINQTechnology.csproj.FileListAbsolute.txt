@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\bin\Debug\net6.0\LINQTechnology.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\bin\Debug\net6.0\LINQTechnology.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\bin\Debug\net6.0\LINQTechnology.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\bin\Debug\net6.0\LINQTechnology.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\bin\Debug\net6.0\LINQTechnology.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\bin\Debug\net6.0\FakeData.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.csproj.CopyComplete
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\refint\LINQTechnology.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\LINQTechnology.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQTechnology\obj\Debug\net6.0\ref\LINQTechnology.dll

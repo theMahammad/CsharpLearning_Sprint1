@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\bin\Debug\RSSFileReading.exe.config
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\bin\Debug\RSSFileReading.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\bin\Debug\RSSFileReading.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.Form1.resources
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.Properties.Resources.resources
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\RSSFileReading\obj\Debug\RSSFileReading.pdb

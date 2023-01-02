@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\bin\Debug\net6.0\GenericLists.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\bin\Debug\net6.0\GenericLists.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\bin\Debug\net6.0\GenericLists.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\bin\Debug\net6.0\GenericLists.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\bin\Debug\net6.0\GenericLists.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\refint\GenericLists.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\GenericLists.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\GenericCollections\obj\Debug\net6.0\ref\GenericLists.dll

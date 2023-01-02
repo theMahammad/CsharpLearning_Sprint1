@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\bin\Debug\ReflectionProject.exe.config
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\bin\Debug\ReflectionProject.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\bin\Debug\ReflectionProject.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.Form1.resources
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.Properties.Resources.resources
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionProject\obj\Debug\ReflectionProject.pdb

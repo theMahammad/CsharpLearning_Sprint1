@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\bin\Debug\net6.0\SystemIO.DirectoryOperations.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\bin\Debug\net6.0\SystemIO.DirectoryOperations.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\bin\Debug\net6.0\SystemIO.DirectoryOperations.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\bin\Debug\net6.0\SystemIO.DirectoryOperations.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\bin\Debug\net6.0\SystemIO.DirectoryOperations.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\refint\SystemIO.DirectoryOperations.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\SystemIO.DirectoryOperations.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.DirectoryOperations\obj\Debug\net6.0\ref\SystemIO.DirectoryOperations.dll

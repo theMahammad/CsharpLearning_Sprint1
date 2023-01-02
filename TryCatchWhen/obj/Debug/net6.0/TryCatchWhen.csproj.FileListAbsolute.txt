@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\bin\Debug\net6.0\TryCatchWhen.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\bin\Debug\net6.0\TryCatchWhen.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\bin\Debug\net6.0\TryCatchWhen.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\bin\Debug\net6.0\TryCatchWhen.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\bin\Debug\net6.0\TryCatchWhen.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\refint\TryCatchWhen.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\TryCatchWhen.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\TryCatchWhen\obj\Debug\net6.0\ref\TryCatchWhen.dll

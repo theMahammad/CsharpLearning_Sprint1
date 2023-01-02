@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\bin\Debug\net6.0\InheritanceProject.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\bin\Debug\net6.0\InheritanceProject.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\bin\Debug\net6.0\InheritanceProject.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\bin\Debug\net6.0\InheritanceProject.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\bin\Debug\net6.0\InheritanceProject.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\refint\InheritanceProject.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\InheritanceProject.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InheritanceProject\obj\Debug\net6.0\ref\InheritanceProject.dll

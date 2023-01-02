@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding = "UTF-8"?>
+<Staffs>
+	<Staff ID = "1">
+		<Name>Mahammad</Name>
+		<Surname>Sadigzada</Surname>
+		<Email>mahammadsadigzada@gmail.com</Email>
+	</Staff>
+	
+	<Staff ID = "2">
+		<Name>Naghi</Name>
+		<Surname>Aliyev</Surname>
+		<Email>nagialiyev@gmail.com</Email>
+	</Staff>
+
+</Staffs>

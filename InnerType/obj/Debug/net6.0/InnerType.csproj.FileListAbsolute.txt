@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\bin\Debug\net6.0\InnerType.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\bin\Debug\net6.0\InnerType.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\bin\Debug\net6.0\InnerType.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\bin\Debug\net6.0\InnerType.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\bin\Debug\net6.0\InnerType.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\refint\InnerType.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\InnerType.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\InnerType\obj\Debug\net6.0\ref\InnerType.dll

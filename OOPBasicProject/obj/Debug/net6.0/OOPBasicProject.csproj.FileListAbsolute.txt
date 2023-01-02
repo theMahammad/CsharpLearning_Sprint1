@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\bin\Debug\net6.0\OOPBasicProject.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\bin\Debug\net6.0\OOPBasicProject.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\bin\Debug\net6.0\OOPBasicProject.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\bin\Debug\net6.0\OOPBasicProject.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\bin\Debug\net6.0\OOPBasicProject.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\refint\OOPBasicProject.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\OOPBasicProject.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\OOPBasicProject\obj\Debug\net6.0\ref\OOPBasicProject.dll

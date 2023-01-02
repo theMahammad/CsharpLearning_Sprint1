@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\bin\Debug\net6.0\ReflectionLib.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\bin\Debug\net6.0\ReflectionLib.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\bin\Debug\net6.0\ReflectionLib.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\refint\ReflectionLib.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ReflectionLib.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\ReflectionLib\obj\Debug\net6.0\ref\ReflectionLib.dll

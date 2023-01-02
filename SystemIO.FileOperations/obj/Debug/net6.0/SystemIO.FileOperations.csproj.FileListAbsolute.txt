@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\bin\Debug\net6.0\SystemIO.FileOperations.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\bin\Debug\net6.0\SystemIO.FileOperations.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\bin\Debug\net6.0\SystemIO.FileOperations.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\bin\Debug\net6.0\SystemIO.FileOperations.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\bin\Debug\net6.0\SystemIO.FileOperations.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\refint\SystemIO.FileOperations.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\SystemIO.FileOperations.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\SystemIO.FileOperations\obj\Debug\net6.0\ref\SystemIO.FileOperations.dll

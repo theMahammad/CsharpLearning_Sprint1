@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\bin\Debug\net6.0\DictionaryAndSortedList.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\bin\Debug\net6.0\DictionaryAndSortedList.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\bin\Debug\net6.0\DictionaryAndSortedList.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\bin\Debug\net6.0\DictionaryAndSortedList.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\bin\Debug\net6.0\DictionaryAndSortedList.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\refint\DictionaryAndSortedList.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\DictionaryAndSortedList.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\DictionaryAndSortedList\obj\Debug\net6.0\ref\DictionaryAndSortedList.dll

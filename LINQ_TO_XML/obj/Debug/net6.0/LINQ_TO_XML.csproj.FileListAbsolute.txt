@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.AssemblyInfo.cs
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\bin\Debug\net6.0\LINQ_TO_XML.exe
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\bin\Debug\net6.0\LINQ_TO_XML.deps.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\bin\Debug\net6.0\LINQ_TO_XML.runtimeconfig.json
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\bin\Debug\net6.0\LINQ_TO_XML.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\bin\Debug\net6.0\LINQ_TO_XML.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\refint\LINQ_TO_XML.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.pdb
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.genruntimeconfig.cache
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\ref\LINQ_TO_XML.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\bin\Debug\net6.0\FakeData.dll
+C:\Users\acer\source\repos\CsharpLearning_Sprint1\LINQ_TO_XML\obj\Debug\net6.0\LINQ_TO_XML.csproj.CopyComplete
